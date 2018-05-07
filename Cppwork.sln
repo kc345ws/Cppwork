@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cppwork", "Cppwork\Cppwork.vcxproj", "{CB974884-32CD-4ECB-9BF5-5AE063FA8727}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cppwork_01", "Cppwork\Cppwork.vcxproj", "{CB974884-32CD-4ECB-9BF5-5AE063FA8727}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppWork_02", "CppWork_02\CppWork_02.vcxproj", "{DDDAA57E-A8FE-48F5-94F7-C1C0AF7806C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{CB974884-32CD-4ECB-9BF5-5AE063FA8727}.Release|x64.Build.0 = Release|x64
 		{CB974884-32CD-4ECB-9BF5-5AE063FA8727}.Release|x86.ActiveCfg = Release|Win32
 		{CB974884-32CD-4ECB-9BF5-5AE063FA8727}.Release|x86.Build.0 = Release|Win32
+		{DDDAA57E-A8FE-48F5-94F7-C1C0AF7806C0}.Debug|x64.ActiveCfg = Debug|x64
+		{DDDAA57E-A8FE-48F5-94F7-C1C0AF7806C0}.Debug|x64.Build.0 = Debug|x64
+		{DDDAA57E-A8FE-48F5-94F7-C1C0AF7806C0}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDDAA57E-A8FE-48F5-94F7-C1C0AF7806C0}.Debug|x86.Build.0 = Debug|Win32
+		{DDDAA57E-A8FE-48F5-94F7-C1C0AF7806C0}.Release|x64.ActiveCfg = Release|x64
+		{DDDAA57E-A8FE-48F5-94F7-C1C0AF7806C0}.Release|x64.Build.0 = Release|x64
+		{DDDAA57E-A8FE-48F5-94F7-C1C0AF7806C0}.Release|x86.ActiveCfg = Release|Win32
+		{DDDAA57E-A8FE-48F5-94F7-C1C0AF7806C0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
